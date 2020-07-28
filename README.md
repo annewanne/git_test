@@ -1,1 +1,1 @@
-This is Anne's first git project!
+This is Anne's first git project! And Martin is helping her.
